@@ -12,7 +12,8 @@
     "errors": "tsx src/2-errors.ts",
     "interface": "tsx src/3-interface.ts",
     "flights": "tsx src/flights.ts",
-    "flights-bugs": "tsx src/flights-bugs.ts"
+    "flights-bugs": "tsx src/flights-bugs.ts",
+    "shop": "tsx src/shop.ts"
   },
   "keywords": [],
   "author": "",
